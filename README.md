@@ -63,7 +63,7 @@ O KRATOS foi construído com o **método BMAD** (agentes especializados do Claud
 | Dev | Protótipo | Esta aplicação em HTML, CSS e JavaScript |
 | QA | Testes | Fluxo completo, permissões, claro/escuro, 400 px e impressão |
 
-Também usamos priorização **MoSCoW** (painel com dinheiro em risco e alertas primeiro; depois "¿Qué hago?", previsão e relatórios, fechamento guiado e, por último, o chat), uma análise **5W2H** da viabilidade e o fluxo de dados do desafio (pedimento → ledger → produção → exportação → relatório → assinatura).
+Também usamos o **5W2H** na análise de viabilidade e seguimos os fluxos do desafio (pedimento → ledger → produção → exportação → relatório → assinatura).
 
 ## Protótipo hoje vs. produto
 
